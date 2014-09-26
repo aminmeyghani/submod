@@ -1,3 +1,6 @@
 [submodule "src/less/bootstrap"]
 	path = src/less/bootstrap
 	url = git@github.com:twbs/bootstrap.git
+[submodule "sass/frame"]
+	path = sass/frame
+	url = git@github.com:aminmeyghani/dep1.git
